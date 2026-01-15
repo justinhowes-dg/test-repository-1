@@ -1,7 +1,7 @@
 {
   "name": "test-repository-1",
   "version": "1.0.0",
-  "description": "A sample node project",
+  "description": "A sample Node.js project",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
